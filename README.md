@@ -1,4 +1,4 @@
-# Self-driving-car
+## Self-driving-car
 
 This is the code I wrote during the Self-driving car (no libraries) JavaScript course:
 <Link>
