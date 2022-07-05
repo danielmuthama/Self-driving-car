@@ -4,6 +4,7 @@ This is the code I wrote during the Self-driving car (no libraries) JavaScript c
 <Link>
   
 The code will appear as the course progresses and will be divided into parts as follows:
+
       1. Car driving mechanics
       2. Road definition
       3. Artificial sensors
